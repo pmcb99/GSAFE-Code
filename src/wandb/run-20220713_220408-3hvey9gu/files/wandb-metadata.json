@@ -1,0 +1,24 @@
+{
+    "os": "Linux-5.4.0-121-generic-x86_64-with-glibc2.29",
+    "python": "3.8.10",
+    "heartbeatAt": "2022-07-13T21:04:12.834158",
+    "startedAt": "2022-07-13T21:04:08.701417",
+    "docker": null,
+    "gpu": "Quadro P620",
+    "gpu_count": 1,
+    "cpu_count": 6,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "fullrunmodel.py",
+    "codePath": "src/fullrunmodel.py",
+    "git": {
+        "remote": "https://gitlab.computing.dcu.ie/mcbriep2/2022-mcm-TERMPLATE",
+        "commit": "1d4fc9004faae13364ab7d5caa448824ad2edfbd"
+    },
+    "email": "paulmcbrien10@gmail.com",
+    "root": "/DATA/2022-mcm-pmb",
+    "host": "l129-38",
+    "username": "mcbriep2",
+    "executable": "/usr/bin/python3"
+}

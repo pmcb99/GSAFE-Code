@@ -1,0 +1,2108 @@
+2022-07-14 00:27:54,889 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:27:54,889 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:27:54,890 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:27:54,891 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:27:54,891 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_002754-37ouv1w0/logs/debug.log
+2022-07-14 00:27:54,892 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_002754-37ouv1w0/logs/debug-internal.log
+2022-07-14 00:27:54,893 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:27:54,893 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:27:54,894 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:27:54,894 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:28:39,403 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:28:39,404 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:28:39,404 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:28:39,405 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:28:39,406 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_002839-19f3745s/logs/debug.log
+2022-07-14 00:28:39,407 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_002839-19f3745s/logs/debug-internal.log
+2022-07-14 00:28:39,407 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:28:39,408 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:28:39,409 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:28:39,410 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:29:21,570 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:29:21,571 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:29:21,571 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:29:21,571 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:29:21,572 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_002921-p3mzt68c/logs/debug.log
+2022-07-14 00:29:21,572 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_002921-p3mzt68c/logs/debug-internal.log
+2022-07-14 00:29:21,573 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:29:21,573 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:29:21,573 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:29:21,574 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:30:11,777 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:30:11,778 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:30:11,778 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:30:11,778 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:30:11,779 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_003011-n7jhkw6z/logs/debug.log
+2022-07-14 00:30:11,779 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_003011-n7jhkw6z/logs/debug-internal.log
+2022-07-14 00:30:11,779 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:30:11,780 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:30:11,780 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:30:11,780 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:30:47,037 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:30:47,038 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:30:47,038 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:30:47,039 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:30:47,039 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_003047-1zcusfr0/logs/debug.log
+2022-07-14 00:30:47,039 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_003047-1zcusfr0/logs/debug-internal.log
+2022-07-14 00:30:47,040 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:30:47,040 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:30:47,040 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:30:47,041 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:31:39,042 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:31:39,043 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:31:39,043 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:31:39,043 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:31:39,044 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_003139-2kp3z9l9/logs/debug.log
+2022-07-14 00:31:39,044 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_003139-2kp3z9l9/logs/debug-internal.log
+2022-07-14 00:31:39,044 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:31:39,045 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:31:39,045 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:31:39,045 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:32:30,123 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:32:30,124 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:32:30,124 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:32:30,125 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:32:30,125 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_003230-2htlnc4q/logs/debug.log
+2022-07-14 00:32:30,125 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_003230-2htlnc4q/logs/debug-internal.log
+2022-07-14 00:32:30,126 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:32:30,126 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:32:30,126 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:32:30,127 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:33:25,770 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:33:25,771 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:33:25,771 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:33:25,772 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:33:25,772 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_003325-1lx1m8c6/logs/debug.log
+2022-07-14 00:33:25,772 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_003325-1lx1m8c6/logs/debug-internal.log
+2022-07-14 00:33:25,773 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:33:25,773 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:33:25,774 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:33:25,774 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:33:58,262 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:33:58,263 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:33:58,263 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:33:58,264 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:33:58,264 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_003358-i83bhrud/logs/debug.log
+2022-07-14 00:33:58,264 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_003358-i83bhrud/logs/debug-internal.log
+2022-07-14 00:33:58,265 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:33:58,265 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:33:58,265 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:33:58,266 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:34:43,258 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:34:43,259 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:34:43,259 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:34:43,259 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:34:43,260 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_003443-3tse69bg/logs/debug.log
+2022-07-14 00:34:43,260 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_003443-3tse69bg/logs/debug-internal.log
+2022-07-14 00:34:43,261 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:34:43,261 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:34:43,261 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:34:43,262 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:35:37,834 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:35:37,835 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:35:37,835 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:35:37,836 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:35:37,836 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_003537-2y3bnlf8/logs/debug.log
+2022-07-14 00:35:37,837 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_003537-2y3bnlf8/logs/debug-internal.log
+2022-07-14 00:35:37,837 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:35:37,837 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:35:37,838 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:35:37,838 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:36:29,595 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:36:29,596 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:36:29,596 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:36:29,597 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:36:29,597 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_003629-2acqefq0/logs/debug.log
+2022-07-14 00:36:29,598 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_003629-2acqefq0/logs/debug-internal.log
+2022-07-14 00:36:29,598 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:36:29,599 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:36:29,599 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:36:29,600 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:37:22,410 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:37:22,411 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:37:22,411 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:37:22,412 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:37:22,412 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_003722-5y5f5ueg/logs/debug.log
+2022-07-14 00:37:22,413 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_003722-5y5f5ueg/logs/debug-internal.log
+2022-07-14 00:37:22,413 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:37:22,414 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:37:22,414 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:37:22,414 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:38:14,674 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:38:14,675 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:38:14,675 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:38:14,675 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:38:14,676 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_003814-1vslth5s/logs/debug.log
+2022-07-14 00:38:14,676 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_003814-1vslth5s/logs/debug-internal.log
+2022-07-14 00:38:14,677 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:38:14,677 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:38:14,678 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:38:14,678 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:38:53,398 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:38:53,399 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:38:53,399 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:38:53,399 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:38:53,400 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_003853-w5dkl9ti/logs/debug.log
+2022-07-14 00:38:53,400 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_003853-w5dkl9ti/logs/debug-internal.log
+2022-07-14 00:38:53,401 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:38:53,401 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:38:53,402 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:38:53,402 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:39:45,936 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:39:45,937 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:39:45,937 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:39:45,938 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:39:45,938 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_003945-3t4be3ou/logs/debug.log
+2022-07-14 00:39:45,939 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_003945-3t4be3ou/logs/debug-internal.log
+2022-07-14 00:39:45,939 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:39:45,940 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:39:45,940 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:39:45,941 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:40:29,098 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:40:29,099 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:40:29,099 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:40:29,100 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:40:29,100 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_004029-i8o0xhnj/logs/debug.log
+2022-07-14 00:40:29,101 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_004029-i8o0xhnj/logs/debug-internal.log
+2022-07-14 00:40:29,101 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:40:29,101 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:40:29,102 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:40:29,102 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:41:15,526 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:41:15,527 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:41:15,527 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:41:15,528 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:41:15,528 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_004115-2ipvg4fb/logs/debug.log
+2022-07-14 00:41:15,529 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_004115-2ipvg4fb/logs/debug-internal.log
+2022-07-14 00:41:15,529 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:41:15,530 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:41:15,530 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:41:15,531 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:42:05,806 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:42:05,807 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:42:05,807 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:42:05,808 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:42:05,808 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_004205-bd9dk1u7/logs/debug.log
+2022-07-14 00:42:05,809 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_004205-bd9dk1u7/logs/debug-internal.log
+2022-07-14 00:42:05,809 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:42:05,810 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:42:05,810 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:42:05,811 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:42:57,382 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:42:57,383 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:42:57,383 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:42:57,389 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:42:57,390 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_004257-3rhjrf1q/logs/debug.log
+2022-07-14 00:42:57,390 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_004257-3rhjrf1q/logs/debug-internal.log
+2022-07-14 00:42:57,391 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:42:57,391 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:42:57,392 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:42:57,392 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:43:47,466 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:43:47,467 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:43:47,467 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:43:47,468 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:43:47,468 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_004347-qv9tkccc/logs/debug.log
+2022-07-14 00:43:47,469 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_004347-qv9tkccc/logs/debug-internal.log
+2022-07-14 00:43:47,469 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:43:47,470 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:43:47,470 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:43:47,471 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:44:38,838 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:44:38,839 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:44:38,839 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:44:38,840 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:44:38,840 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_004438-2ttnc13c/logs/debug.log
+2022-07-14 00:44:38,841 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_004438-2ttnc13c/logs/debug-internal.log
+2022-07-14 00:44:38,841 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:44:38,842 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:44:38,842 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:44:38,843 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:45:22,447 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:45:22,448 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:45:22,448 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:45:22,449 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:45:22,449 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_004522-4nlxwxaj/logs/debug.log
+2022-07-14 00:45:22,450 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_004522-4nlxwxaj/logs/debug-internal.log
+2022-07-14 00:45:22,451 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:45:22,451 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:45:22,452 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:45:22,452 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:46:10,749 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:46:10,750 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:46:10,750 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:46:10,751 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:46:10,751 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_004610-16dd0pi2/logs/debug.log
+2022-07-14 00:46:10,752 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_004610-16dd0pi2/logs/debug-internal.log
+2022-07-14 00:46:10,752 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:46:10,753 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:46:10,753 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:46:10,754 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:46:58,842 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:46:58,843 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:46:58,843 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:46:58,844 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:46:58,844 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_004658-2ck8g9hb/logs/debug.log
+2022-07-14 00:46:58,845 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_004658-2ck8g9hb/logs/debug-internal.log
+2022-07-14 00:46:58,845 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:46:58,846 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:46:58,847 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:46:58,847 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:47:46,730 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:47:46,731 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:47:46,732 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:47:46,732 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:47:46,733 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_004746-wzye4kdr/logs/debug.log
+2022-07-14 00:47:46,733 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_004746-wzye4kdr/logs/debug-internal.log
+2022-07-14 00:47:46,734 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:47:46,735 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:47:46,735 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:47:46,736 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:48:36,553 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:48:36,554 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:48:36,555 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:48:36,555 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:48:36,556 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_004836-3ugfqlx1/logs/debug.log
+2022-07-14 00:48:36,556 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_004836-3ugfqlx1/logs/debug-internal.log
+2022-07-14 00:48:36,557 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:48:36,557 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:48:36,558 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:48:36,559 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:49:17,149 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:49:17,150 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:49:17,150 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:49:17,151 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:49:17,152 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_004917-20jhws12/logs/debug.log
+2022-07-14 00:49:17,152 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_004917-20jhws12/logs/debug-internal.log
+2022-07-14 00:49:17,153 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:49:17,153 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:49:17,154 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:49:17,154 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:49:59,486 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:49:59,487 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:49:59,488 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:49:59,488 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:49:59,489 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_004959-2daa7fzh/logs/debug.log
+2022-07-14 00:49:59,489 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_004959-2daa7fzh/logs/debug-internal.log
+2022-07-14 00:49:59,490 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:49:59,491 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:49:59,491 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:49:59,492 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:50:40,374 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:50:40,375 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:50:40,375 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:50:40,376 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:50:40,377 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_005040-2yehgjm7/logs/debug.log
+2022-07-14 00:50:40,377 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_005040-2yehgjm7/logs/debug-internal.log
+2022-07-14 00:50:40,378 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:50:40,378 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:50:40,379 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:50:40,380 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:51:30,597 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:51:30,598 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:51:30,598 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:51:30,599 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:51:30,599 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_005130-2vxhm6xm/logs/debug.log
+2022-07-14 00:51:30,600 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_005130-2vxhm6xm/logs/debug-internal.log
+2022-07-14 00:51:30,601 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:51:30,619 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:51:30,620 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:51:30,620 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:52:27,026 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:52:27,027 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:52:27,028 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:52:27,028 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:52:27,029 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_005227-1vk5r6bq/logs/debug.log
+2022-07-14 00:52:27,029 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_005227-1vk5r6bq/logs/debug-internal.log
+2022-07-14 00:52:27,030 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:52:27,031 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:52:27,031 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:52:27,032 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:53:03,049 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:53:03,050 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:53:03,051 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:53:03,051 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:53:03,052 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_005303-28n8qzyz/logs/debug.log
+2022-07-14 00:53:03,053 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_005303-28n8qzyz/logs/debug-internal.log
+2022-07-14 00:53:03,053 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:53:03,054 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:53:03,054 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:53:03,055 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:53:47,148 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:53:47,149 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:53:47,149 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:53:47,163 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:53:47,164 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_005347-9o1fmwne/logs/debug.log
+2022-07-14 00:53:47,164 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_005347-9o1fmwne/logs/debug-internal.log
+2022-07-14 00:53:47,165 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:53:47,166 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:53:47,166 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:53:47,167 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:54:35,759 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:54:35,760 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:54:35,761 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:54:35,761 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:54:35,762 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_005435-1u8i4ucc/logs/debug.log
+2022-07-14 00:54:35,763 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_005435-1u8i4ucc/logs/debug-internal.log
+2022-07-14 00:54:35,763 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:54:35,764 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:54:35,765 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:54:35,777 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:55:22,286 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:55:22,287 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:55:22,288 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:55:22,288 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:55:22,289 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_005522-9as54hxg/logs/debug.log
+2022-07-14 00:55:22,289 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_005522-9as54hxg/logs/debug-internal.log
+2022-07-14 00:55:22,290 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:55:22,291 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:55:22,291 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:55:22,292 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:56:15,051 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:56:15,052 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:56:15,053 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:56:15,053 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:56:15,054 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_005615-izg41kf5/logs/debug.log
+2022-07-14 00:56:15,055 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_005615-izg41kf5/logs/debug-internal.log
+2022-07-14 00:56:15,060 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:56:15,061 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:56:15,062 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:56:15,062 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:57:01,182 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:57:01,183 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:57:01,184 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:57:01,184 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:57:01,185 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_005701-23pnf5j2/logs/debug.log
+2022-07-14 00:57:01,186 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_005701-23pnf5j2/logs/debug-internal.log
+2022-07-14 00:57:01,186 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:57:01,187 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:57:01,188 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:57:01,188 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:57:47,134 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:57:47,135 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:57:47,136 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:57:47,136 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:57:47,137 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_005747-2q5o7oqq/logs/debug.log
+2022-07-14 00:57:47,143 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_005747-2q5o7oqq/logs/debug-internal.log
+2022-07-14 00:57:47,144 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:57:47,144 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:57:47,145 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:57:47,146 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:58:32,297 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:58:32,298 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:58:32,299 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:58:32,300 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:58:32,300 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_005832-np1icmms/logs/debug.log
+2022-07-14 00:58:32,301 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_005832-np1icmms/logs/debug-internal.log
+2022-07-14 00:58:32,302 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:58:32,302 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:58:32,303 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:58:32,304 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 00:59:23,569 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 00:59:23,570 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 00:59:23,571 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 00:59:23,572 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 00:59:23,572 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_005923-qk7f93so/logs/debug.log
+2022-07-14 00:59:23,586 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_005923-qk7f93so/logs/debug-internal.log
+2022-07-14 00:59:23,587 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 00:59:23,587 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 00:59:23,588 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 00:59:23,589 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:00:09,018 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:00:09,019 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:00:09,024 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:00:09,038 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:00:09,038 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_010009-35tcp5yp/logs/debug.log
+2022-07-14 01:00:09,039 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_010009-35tcp5yp/logs/debug-internal.log
+2022-07-14 01:00:09,040 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:00:09,041 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:00:09,041 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:00:09,042 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:00:55,080 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:00:55,081 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:00:55,081 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:00:55,082 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:00:55,083 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_010055-1ecwzttn/logs/debug.log
+2022-07-14 01:00:55,083 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_010055-1ecwzttn/logs/debug-internal.log
+2022-07-14 01:00:55,084 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:00:55,085 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:00:55,098 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:00:55,099 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:01:44,368 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:01:44,369 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:01:44,369 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:01:44,370 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:01:44,371 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_010144-342un2bs/logs/debug.log
+2022-07-14 01:01:44,371 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_010144-342un2bs/logs/debug-internal.log
+2022-07-14 01:01:44,372 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:01:44,373 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:01:44,374 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:01:44,374 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:02:29,899 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:02:29,900 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:02:29,901 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:02:29,902 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:02:29,902 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_010229-2lj1efnv/logs/debug.log
+2022-07-14 01:02:29,903 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_010229-2lj1efnv/logs/debug-internal.log
+2022-07-14 01:02:29,918 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:02:29,918 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:02:29,919 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:02:29,920 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:03:17,753 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:03:17,754 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:03:17,755 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:03:17,756 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:03:17,757 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_010317-z01iatcl/logs/debug.log
+2022-07-14 01:03:17,757 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_010317-z01iatcl/logs/debug-internal.log
+2022-07-14 01:03:17,758 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:03:17,759 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:03:17,759 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:03:17,760 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:04:03,001 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:04:03,002 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:04:03,003 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:04:03,004 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:04:03,005 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_010403-1ovsh3et/logs/debug.log
+2022-07-14 01:04:03,005 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_010403-1ovsh3et/logs/debug-internal.log
+2022-07-14 01:04:03,006 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:04:03,007 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:04:03,008 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:04:03,008 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:04:55,185 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:04:55,186 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:04:55,186 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:04:55,187 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:04:55,193 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_010455-11w98sxy/logs/debug.log
+2022-07-14 01:04:55,194 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_010455-11w98sxy/logs/debug-internal.log
+2022-07-14 01:04:55,195 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:04:55,195 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:04:55,196 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:04:55,197 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:05:48,294 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:05:48,295 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:05:48,296 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:05:48,299 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:05:48,300 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_010548-3mz9jzq1/logs/debug.log
+2022-07-14 01:05:48,301 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_010548-3mz9jzq1/logs/debug-internal.log
+2022-07-14 01:05:48,302 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:05:48,303 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:05:48,303 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:05:48,304 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:06:26,303 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:06:26,304 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:06:26,305 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:06:26,306 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:06:26,307 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_010626-333dwi9q/logs/debug.log
+2022-07-14 01:06:26,307 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_010626-333dwi9q/logs/debug-internal.log
+2022-07-14 01:06:26,314 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:06:26,315 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:06:26,316 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:06:26,316 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:07:19,630 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:07:19,631 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:07:19,632 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:07:19,633 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:07:19,633 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_010719-2y8v671q/logs/debug.log
+2022-07-14 01:07:19,634 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_010719-2y8v671q/logs/debug-internal.log
+2022-07-14 01:07:19,635 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:07:19,636 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:07:19,636 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:07:19,637 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:08:04,034 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:08:04,035 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:08:04,036 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:08:04,037 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:08:04,038 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_010804-ekndjjzf/logs/debug.log
+2022-07-14 01:08:04,038 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_010804-ekndjjzf/logs/debug-internal.log
+2022-07-14 01:08:04,039 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:08:04,040 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:08:04,041 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:08:04,041 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:08:49,346 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:08:49,348 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:08:49,348 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:08:49,349 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:08:49,350 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_010849-367084ms/logs/debug.log
+2022-07-14 01:08:49,351 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_010849-367084ms/logs/debug-internal.log
+2022-07-14 01:08:49,352 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:08:49,352 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:08:49,353 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:08:49,363 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:09:40,834 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:09:40,835 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:09:40,836 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:09:40,837 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:09:40,837 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_010940-xyb1tdg7/logs/debug.log
+2022-07-14 01:09:40,843 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_010940-xyb1tdg7/logs/debug-internal.log
+2022-07-14 01:09:40,844 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:09:40,845 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:09:40,845 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:09:40,846 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:10:27,482 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:10:27,483 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:10:27,484 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:10:27,485 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:10:27,486 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_011027-2goek2h7/logs/debug.log
+2022-07-14 01:10:27,486 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_011027-2goek2h7/logs/debug-internal.log
+2022-07-14 01:10:27,487 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:10:27,488 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:10:27,489 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:10:27,490 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:11:14,909 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:11:14,910 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:11:14,911 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:11:14,912 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:11:14,913 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_011114-210c9crz/logs/debug.log
+2022-07-14 01:11:14,914 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_011114-210c9crz/logs/debug-internal.log
+2022-07-14 01:11:14,915 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:11:14,915 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:11:14,916 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:11:14,917 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:11:59,190 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:11:59,191 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:11:59,192 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:11:59,193 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:11:59,194 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_011159-1rfg44u0/logs/debug.log
+2022-07-14 01:11:59,195 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_011159-1rfg44u0/logs/debug-internal.log
+2022-07-14 01:11:59,195 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:11:59,196 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:11:59,197 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:11:59,198 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:12:45,494 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:12:45,496 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:12:45,497 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:12:45,498 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:12:45,499 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_011245-u5lgk3sh/logs/debug.log
+2022-07-14 01:12:45,499 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_011245-u5lgk3sh/logs/debug-internal.log
+2022-07-14 01:12:45,500 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:12:45,501 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:12:45,502 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:12:45,503 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:13:33,550 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:13:33,551 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:13:33,552 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:13:33,553 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:13:33,554 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_011333-2qksn597/logs/debug.log
+2022-07-14 01:13:33,555 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_011333-2qksn597/logs/debug-internal.log
+2022-07-14 01:13:33,556 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:13:33,557 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:13:33,560 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:13:33,561 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:14:20,198 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:14:20,199 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:14:20,200 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:14:20,201 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:14:20,202 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_011420-32hnr1yz/logs/debug.log
+2022-07-14 01:14:20,203 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_011420-32hnr1yz/logs/debug-internal.log
+2022-07-14 01:14:20,204 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:14:20,204 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:14:20,205 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:14:20,206 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:15:09,146 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:15:09,147 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:15:09,148 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:15:09,149 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:15:09,150 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_011509-15zsjqes/logs/debug.log
+2022-07-14 01:15:09,151 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_011509-15zsjqes/logs/debug-internal.log
+2022-07-14 01:15:09,151 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:15:09,152 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:15:09,153 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:15:09,159 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:15:55,714 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:15:55,715 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:15:55,716 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:15:55,717 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:15:55,718 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_011555-1yn88xx6/logs/debug.log
+2022-07-14 01:15:55,719 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_011555-1yn88xx6/logs/debug-internal.log
+2022-07-14 01:15:55,720 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:15:55,721 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:15:55,742 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:15:55,743 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:16:42,418 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:16:42,419 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:16:42,420 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:16:42,421 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:16:42,422 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_011642-2ed7jbgq/logs/debug.log
+2022-07-14 01:16:42,423 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_011642-2ed7jbgq/logs/debug-internal.log
+2022-07-14 01:16:42,424 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:16:42,425 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:16:42,425 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:16:42,426 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:17:29,726 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:17:29,727 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:17:29,728 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:17:29,729 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:17:29,730 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_011729-25594lfd/logs/debug.log
+2022-07-14 01:17:29,731 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_011729-25594lfd/logs/debug-internal.log
+2022-07-14 01:17:29,732 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:17:29,733 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:17:29,733 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:17:29,734 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:18:17,966 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:18:17,968 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:18:17,968 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:18:17,969 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:18:17,970 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_011817-2aiuyuh5/logs/debug.log
+2022-07-14 01:18:17,982 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_011817-2aiuyuh5/logs/debug-internal.log
+2022-07-14 01:18:17,983 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:18:17,984 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:18:17,985 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:18:17,986 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:19:10,758 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:19:10,759 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:19:10,760 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:19:10,761 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:19:10,762 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_011910-18nt6p63/logs/debug.log
+2022-07-14 01:19:10,763 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_011910-18nt6p63/logs/debug-internal.log
+2022-07-14 01:19:10,764 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:19:10,765 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:19:10,766 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:19:10,767 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:20:02,352 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:20:02,354 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:20:02,355 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:20:02,355 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:20:02,356 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_012002-3sj7ixm9/logs/debug.log
+2022-07-14 01:20:02,371 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_012002-3sj7ixm9/logs/debug-internal.log
+2022-07-14 01:20:02,372 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:20:02,373 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:20:02,373 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:20:02,380 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:20:50,912 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:20:50,913 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:20:50,914 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:20:50,915 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:20:50,916 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_012050-23olu9v8/logs/debug.log
+2022-07-14 01:20:50,917 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_012050-23olu9v8/logs/debug-internal.log
+2022-07-14 01:20:50,918 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:20:50,919 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:20:50,919 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:20:50,920 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:21:35,971 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:21:35,973 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:21:35,974 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:21:35,975 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:21:35,976 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_012135-1izholk2/logs/debug.log
+2022-07-14 01:21:35,977 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_012135-1izholk2/logs/debug-internal.log
+2022-07-14 01:21:35,978 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:21:35,979 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:21:35,979 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:21:35,980 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:22:22,421 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:22:22,423 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:22:22,424 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:22:22,425 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:22:22,426 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_012222-1lx3cmgq/logs/debug.log
+2022-07-14 01:22:22,427 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_012222-1lx3cmgq/logs/debug-internal.log
+2022-07-14 01:22:22,428 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:22:22,441 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:22:22,443 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:22:22,444 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:23:04,554 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:23:04,556 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:23:04,557 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:23:04,558 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:23:04,559 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_012304-2nzymmgo/logs/debug.log
+2022-07-14 01:23:04,560 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_012304-2nzymmgo/logs/debug-internal.log
+2022-07-14 01:23:04,561 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:23:04,562 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:23:04,563 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:23:04,564 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:23:47,123 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:23:47,125 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:23:47,126 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:23:47,127 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:23:47,128 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_012347-brn7jfn6/logs/debug.log
+2022-07-14 01:23:47,129 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_012347-brn7jfn6/logs/debug-internal.log
+2022-07-14 01:23:47,130 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:23:47,131 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:23:47,131 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:23:47,132 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:24:33,290 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:24:33,291 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:24:33,292 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:24:33,293 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:24:33,294 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_012433-2po4qmn2/logs/debug.log
+2022-07-14 01:24:33,295 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_012433-2po4qmn2/logs/debug-internal.log
+2022-07-14 01:24:33,296 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:24:33,309 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:24:33,311 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:24:33,312 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:25:23,574 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:25:23,575 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:25:23,576 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:25:23,577 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:25:23,578 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_012523-22s6nbqe/logs/debug.log
+2022-07-14 01:25:23,579 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_012523-22s6nbqe/logs/debug-internal.log
+2022-07-14 01:25:23,580 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:25:23,581 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:25:23,582 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:25:23,583 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:26:03,270 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:26:03,272 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:26:03,273 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:26:03,274 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:26:03,275 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_012603-5u6hqoxq/logs/debug.log
+2022-07-14 01:26:03,276 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_012603-5u6hqoxq/logs/debug-internal.log
+2022-07-14 01:26:03,277 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:26:03,307 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:26:03,308 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:26:03,310 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:26:45,282 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:26:45,283 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:26:45,284 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:26:45,285 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:26:45,286 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_012645-w3cchz7q/logs/debug.log
+2022-07-14 01:26:45,288 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_012645-w3cchz7q/logs/debug-internal.log
+2022-07-14 01:26:45,289 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:26:45,302 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:26:45,303 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:26:45,304 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:27:24,178 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:27:24,179 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:27:24,180 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:27:24,181 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:27:24,183 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_012724-26b8b14m/logs/debug.log
+2022-07-14 01:27:24,184 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_012724-26b8b14m/logs/debug-internal.log
+2022-07-14 01:27:24,185 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:27:24,202 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:27:24,203 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:27:24,204 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:28:07,873 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:28:07,875 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:28:07,876 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:28:07,877 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:28:07,878 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_012807-3o0nz7gp/logs/debug.log
+2022-07-14 01:28:07,879 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_012807-3o0nz7gp/logs/debug-internal.log
+2022-07-14 01:28:07,880 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:28:07,881 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:28:07,882 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:28:07,883 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:28:58,506 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:28:58,507 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:28:58,509 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:28:58,510 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:28:58,511 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_012858-1kgkgfl7/logs/debug.log
+2022-07-14 01:28:58,512 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_012858-1kgkgfl7/logs/debug-internal.log
+2022-07-14 01:28:58,513 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:28:58,522 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:28:58,523 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:28:58,524 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:29:50,738 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:29:50,740 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:29:50,741 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:29:50,742 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:29:50,743 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_012950-1ehzdnm9/logs/debug.log
+2022-07-14 01:29:50,744 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_012950-1ehzdnm9/logs/debug-internal.log
+2022-07-14 01:29:50,745 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:29:50,746 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:29:50,747 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:29:50,748 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:30:40,243 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:30:40,245 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:30:40,246 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:30:40,247 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:30:40,248 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_013040-kfm6y7kp/logs/debug.log
+2022-07-14 01:30:40,250 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_013040-kfm6y7kp/logs/debug-internal.log
+2022-07-14 01:30:40,251 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:30:40,252 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:30:40,253 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:30:40,256 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:31:22,668 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:31:22,669 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:31:22,670 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:31:22,671 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:31:22,672 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_013122-25lv6dm3/logs/debug.log
+2022-07-14 01:31:22,674 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_013122-25lv6dm3/logs/debug-internal.log
+2022-07-14 01:31:22,675 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:31:22,676 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:31:22,677 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:31:22,703 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:32:09,197 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:32:09,199 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:32:09,200 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:32:09,201 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:32:09,202 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_013209-1mbxqqzk/logs/debug.log
+2022-07-14 01:32:09,203 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_013209-1mbxqqzk/logs/debug-internal.log
+2022-07-14 01:32:09,204 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:32:09,218 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:32:09,219 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:32:09,220 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:32:58,526 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:32:58,528 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:32:58,529 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:32:58,530 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:32:58,536 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_013258-2nba4jh1/logs/debug.log
+2022-07-14 01:32:58,537 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_013258-2nba4jh1/logs/debug-internal.log
+2022-07-14 01:32:58,541 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:32:58,543 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:32:58,544 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:32:58,545 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:33:44,950 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:33:44,952 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:33:44,953 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:33:44,954 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:33:44,955 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_013344-3vja9n7l/logs/debug.log
+2022-07-14 01:33:44,956 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_013344-3vja9n7l/logs/debug-internal.log
+2022-07-14 01:33:44,957 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:33:44,958 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:33:44,959 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:33:44,960 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:34:39,374 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:34:39,376 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:34:39,377 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:34:39,378 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:34:39,379 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_013439-309p0bx7/logs/debug.log
+2022-07-14 01:34:39,380 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_013439-309p0bx7/logs/debug-internal.log
+2022-07-14 01:34:39,381 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:34:39,382 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:34:39,383 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:34:39,384 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:35:20,866 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:35:20,868 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:35:20,869 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:35:20,870 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:35:20,871 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_013520-k4gx2b9k/logs/debug.log
+2022-07-14 01:35:20,872 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_013520-k4gx2b9k/logs/debug-internal.log
+2022-07-14 01:35:20,886 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:35:20,887 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:35:20,888 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:35:20,889 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:36:03,661 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:36:03,662 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:36:03,663 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:36:03,664 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:36:03,666 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_013603-2kef3ei2/logs/debug.log
+2022-07-14 01:36:03,667 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_013603-2kef3ei2/logs/debug-internal.log
+2022-07-14 01:36:03,668 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:36:03,669 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:36:03,682 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:36:03,684 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:36:54,639 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:36:54,640 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:36:54,641 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:36:54,642 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:36:54,644 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_013654-f5vlotq8/logs/debug.log
+2022-07-14 01:36:54,645 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_013654-f5vlotq8/logs/debug-internal.log
+2022-07-14 01:36:54,646 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:36:54,647 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:36:54,648 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:36:54,649 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:37:38,598 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:37:38,600 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:37:38,601 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:37:38,602 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:37:38,603 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_013738-1hxdphx8/logs/debug.log
+2022-07-14 01:37:38,604 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_013738-1hxdphx8/logs/debug-internal.log
+2022-07-14 01:37:38,605 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:37:38,607 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:37:38,608 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:37:38,609 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:38:28,485 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:38:28,487 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:38:28,488 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:38:28,490 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:38:28,491 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_013828-1l7csyov/logs/debug.log
+2022-07-14 01:38:28,492 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_013828-1l7csyov/logs/debug-internal.log
+2022-07-14 01:38:28,506 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:38:28,507 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:38:28,508 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:38:28,510 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:39:17,382 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:39:17,384 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:39:17,385 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:39:17,386 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:39:17,388 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_013917-2qvke5wp/logs/debug.log
+2022-07-14 01:39:17,389 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_013917-2qvke5wp/logs/debug-internal.log
+2022-07-14 01:39:17,390 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:39:17,391 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:39:17,393 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:39:17,406 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:39:59,359 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:39:59,360 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:39:59,362 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:39:59,363 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:39:59,364 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_013959-hs3uqmkq/logs/debug.log
+2022-07-14 01:39:59,375 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_013959-hs3uqmkq/logs/debug-internal.log
+2022-07-14 01:39:59,376 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:39:59,377 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:39:59,379 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:39:59,380 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:40:47,479 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:40:47,481 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:40:47,482 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:40:47,484 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:40:47,485 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_014047-172a286m/logs/debug.log
+2022-07-14 01:40:47,502 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_014047-172a286m/logs/debug-internal.log
+2022-07-14 01:40:47,504 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:40:47,505 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:40:47,506 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:40:47,519 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:41:33,226 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:41:33,228 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:41:33,229 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:41:33,230 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:41:33,231 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_014133-1785qc88/logs/debug.log
+2022-07-14 01:41:33,232 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_014133-1785qc88/logs/debug-internal.log
+2022-07-14 01:41:33,234 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:41:33,235 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:41:33,236 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:41:33,237 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:42:13,882 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:42:13,884 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:42:13,885 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:42:13,886 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:42:13,887 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_014213-2io6g58q/logs/debug.log
+2022-07-14 01:42:13,888 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_014213-2io6g58q/logs/debug-internal.log
+2022-07-14 01:42:13,905 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:42:13,906 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:42:13,907 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:42:13,909 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:43:00,582 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:43:00,584 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:43:00,585 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:43:00,586 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:43:00,587 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_014300-1zsh04u1/logs/debug.log
+2022-07-14 01:43:00,588 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_014300-1zsh04u1/logs/debug-internal.log
+2022-07-14 01:43:00,605 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:43:00,606 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:43:00,608 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:43:00,609 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:43:48,683 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:43:48,685 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:43:48,686 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:43:48,688 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:43:48,689 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_014348-1w0lbtij/logs/debug.log
+2022-07-14 01:43:48,690 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_014348-1w0lbtij/logs/debug-internal.log
+2022-07-14 01:43:48,692 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:43:48,693 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:43:48,694 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:43:48,695 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:44:41,922 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:44:41,924 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:44:41,925 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:44:41,938 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:44:41,940 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_014441-17iq9v8z/logs/debug.log
+2022-07-14 01:44:41,941 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_014441-17iq9v8z/logs/debug-internal.log
+2022-07-14 01:44:41,943 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:44:41,944 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:44:41,945 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:44:41,946 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:45:34,938 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:45:34,940 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:45:34,941 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:45:34,942 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:45:34,943 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_014534-1oy01xfc/logs/debug.log
+2022-07-14 01:45:34,945 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_014534-1oy01xfc/logs/debug-internal.log
+2022-07-14 01:45:34,946 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:45:34,947 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:45:34,948 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:45:34,958 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:46:26,885 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:46:26,887 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:46:26,888 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:46:26,902 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:46:26,903 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_014626-2wd407lq/logs/debug.log
+2022-07-14 01:46:26,905 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_014626-2wd407lq/logs/debug-internal.log
+2022-07-14 01:46:26,906 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:46:26,907 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:46:26,908 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:46:26,910 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:47:13,209 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:47:13,210 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:47:13,212 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:47:13,213 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:47:13,214 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_014713-1db79tw9/logs/debug.log
+2022-07-14 01:47:13,215 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_014713-1db79tw9/logs/debug-internal.log
+2022-07-14 01:47:13,217 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:47:13,230 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:47:13,232 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:47:13,233 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:47:55,930 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:47:55,932 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:47:55,933 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:47:55,935 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:47:55,936 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_014755-1489cuay/logs/debug.log
+2022-07-14 01:47:55,937 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_014755-1489cuay/logs/debug-internal.log
+2022-07-14 01:47:55,939 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:47:55,940 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:47:55,941 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:47:55,943 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:48:41,133 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:48:41,135 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:48:41,136 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:48:41,137 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:48:41,139 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_014841-26u1cn29/logs/debug.log
+2022-07-14 01:48:41,140 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_014841-26u1cn29/logs/debug-internal.log
+2022-07-14 01:48:41,141 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:48:41,143 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:48:41,155 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:48:41,156 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:49:31,665 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:49:31,667 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:49:31,669 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:49:31,670 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:49:31,671 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_014931-29pc2vbw/logs/debug.log
+2022-07-14 01:49:31,673 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_014931-29pc2vbw/logs/debug-internal.log
+2022-07-14 01:49:31,674 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:49:31,675 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:49:31,676 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:49:31,690 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:50:22,862 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:50:22,864 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:50:22,865 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:50:22,866 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:50:22,868 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_015022-1th56y0k/logs/debug.log
+2022-07-14 01:50:22,869 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_015022-1th56y0k/logs/debug-internal.log
+2022-07-14 01:50:22,870 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:50:22,872 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:50:22,873 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:50:22,877 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:51:09,550 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:51:09,552 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:51:09,553 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:51:09,554 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:51:09,556 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_015109-3ngsaj9l/logs/debug.log
+2022-07-14 01:51:09,557 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_015109-3ngsaj9l/logs/debug-internal.log
+2022-07-14 01:51:09,558 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:51:09,559 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:51:09,561 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:51:09,574 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:51:53,503 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:51:53,505 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:51:53,506 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:51:53,507 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:51:53,516 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_015153-2z3fg2z3/logs/debug.log
+2022-07-14 01:51:53,518 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_015153-2z3fg2z3/logs/debug-internal.log
+2022-07-14 01:51:53,519 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:51:53,520 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:51:53,522 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:51:53,523 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:52:38,382 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:52:38,384 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:52:38,399 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:52:38,400 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:52:38,402 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_015238-uyygu8hs/logs/debug.log
+2022-07-14 01:52:38,403 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_015238-uyygu8hs/logs/debug-internal.log
+2022-07-14 01:52:38,404 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:52:38,406 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:52:38,407 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:52:38,408 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:53:31,094 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:53:31,096 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:53:31,097 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:53:31,098 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:53:31,100 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_015331-1jysr0h8/logs/debug.log
+2022-07-14 01:53:31,101 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_015331-1jysr0h8/logs/debug-internal.log
+2022-07-14 01:53:31,111 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:53:31,112 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:53:31,113 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:53:31,115 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:54:14,494 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:54:14,496 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:54:14,497 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:54:14,499 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:54:14,500 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_015414-26dd3g7n/logs/debug.log
+2022-07-14 01:54:14,501 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_015414-26dd3g7n/logs/debug-internal.log
+2022-07-14 01:54:14,502 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:54:14,504 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:54:14,505 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:54:14,519 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:55:05,934 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:55:05,936 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:55:05,937 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:55:05,939 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:55:05,940 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_015505-pemi8ka1/logs/debug.log
+2022-07-14 01:55:05,941 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_015505-pemi8ka1/logs/debug-internal.log
+2022-07-14 01:55:05,943 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:55:05,944 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:55:05,945 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:55:05,959 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:55:49,818 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:55:49,819 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:55:49,821 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:55:49,822 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:55:49,824 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_015549-167ttpyc/logs/debug.log
+2022-07-14 01:55:49,825 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_015549-167ttpyc/logs/debug-internal.log
+2022-07-14 01:55:49,827 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:55:49,828 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:55:49,829 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:55:49,833 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:56:40,834 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:56:40,836 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:56:40,837 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:56:40,839 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:56:40,840 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_015640-3o07vbnj/logs/debug.log
+2022-07-14 01:56:40,841 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_015640-3o07vbnj/logs/debug-internal.log
+2022-07-14 01:56:40,843 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:56:40,844 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:56:40,869 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:56:40,871 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:57:30,276 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:57:30,278 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:57:30,280 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:57:30,282 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:57:30,283 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_015730-1xvnmrml/logs/debug.log
+2022-07-14 01:57:30,285 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_015730-1xvnmrml/logs/debug-internal.log
+2022-07-14 01:57:30,298 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:57:30,300 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:57:30,301 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:57:30,303 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:58:21,386 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:58:21,388 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:58:21,389 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:58:21,391 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:58:21,392 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_015821-1yc51rl2/logs/debug.log
+2022-07-14 01:58:21,394 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_015821-1yc51rl2/logs/debug-internal.log
+2022-07-14 01:58:21,395 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:58:21,396 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:58:21,398 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:58:21,414 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 01:59:13,554 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 01:59:13,556 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 01:59:13,558 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 01:59:13,559 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 01:59:13,561 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_015913-3cd3qaws/logs/debug.log
+2022-07-14 01:59:13,562 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_015913-3cd3qaws/logs/debug-internal.log
+2022-07-14 01:59:13,563 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 01:59:13,565 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 01:59:13,578 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 01:59:13,580 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 02:00:04,694 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 02:00:04,695 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 02:00:04,697 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 02:00:04,698 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 02:00:04,700 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_020004-s8o7n4q0/logs/debug.log
+2022-07-14 02:00:04,701 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_020004-s8o7n4q0/logs/debug-internal.log
+2022-07-14 02:00:04,703 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 02:00:04,704 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 02:00:04,718 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 02:00:04,719 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 02:00:53,346 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 02:00:53,348 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 02:00:53,349 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 02:00:53,351 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 02:00:53,352 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_020053-3k41rjvg/logs/debug.log
+2022-07-14 02:00:53,354 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_020053-3k41rjvg/logs/debug-internal.log
+2022-07-14 02:00:53,355 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 02:00:53,357 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 02:00:53,370 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 02:00:53,372 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 02:01:37,583 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 02:01:37,585 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 02:01:37,587 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 02:01:37,588 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 02:01:37,590 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_020137-2j08pw7o/logs/debug.log
+2022-07-14 02:01:37,591 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_020137-2j08pw7o/logs/debug-internal.log
+2022-07-14 02:01:37,593 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 02:01:37,606 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 02:01:37,608 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 02:01:37,609 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 02:02:27,810 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 02:02:27,812 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 02:02:27,813 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 02:02:27,815 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 02:02:27,816 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_020227-1cln59zi/logs/debug.log
+2022-07-14 02:02:27,818 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_020227-1cln59zi/logs/debug-internal.log
+2022-07-14 02:02:27,819 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 02:02:27,821 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 02:02:27,822 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 02:02:27,823 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 02:03:15,603 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /users/mcm1/mcbriep2/.config/wandb/settings
+2022-07-14 02:03:15,604 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from /DATA/2022-mcm-pmb/src/wandb/settings
+2022-07-14 02:03:15,615 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-07-14 02:03:15,617 INFO    MainThread:2526035 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/fullrunmodel.py', 'program': 'fullrunmodel.py'}
+2022-07-14 02:03:15,618 INFO    MainThread:2526035 [wandb_init.py:_log_setup():428] Logging user logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_020315-1hqo5swx/logs/debug.log
+2022-07-14 02:03:15,620 INFO    MainThread:2526035 [wandb_init.py:_log_setup():429] Logging internal logs to /DATA/2022-mcm-pmb/src/wandb/run-20220714_020315-1hqo5swx/logs/debug-internal.log
+2022-07-14 02:03:15,621 INFO    MainThread:2526035 [wandb_init.py:init():462] calling init triggers
+2022-07-14 02:03:15,622 INFO    MainThread:2526035 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-07-14 02:03:15,624 INFO    MainThread:2526035 [wandb_init.py:init():510] wandb.init() called when a run is still active
+2022-07-14 02:03:15,625 INFO    MainThread:2526035 [wandb_watch.py:watch():47] Watching
+2022-07-14 02:04:03,727 INFO    MainThread:2526035 [wandb_run.py:_atexit_cleanup():1867] got exitcode: 0
+2022-07-14 02:04:03,729 INFO    MainThread:2526035 [wandb_run.py:_restore():1839] restore
+2022-07-14 02:04:06,795 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 1
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 192250580
+  total_bytes: 1137708979
+}
+
+2022-07-14 02:04:06,903 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 1
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 205226708
+  total_bytes: 1137708979
+}
+
+2022-07-14 02:04:07,071 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 1
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 215327444
+  total_bytes: 1137708979
+}
+
+2022-07-14 02:04:07,285 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 1
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 241984212
+  total_bytes: 1137708979
+}
+
+2022-07-14 02:04:07,984 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 3
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 322814676
+  total_bytes: 1138990483
+}
+
+2022-07-14 02:04:08,087 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 336044756
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:08,190 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 346751700
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:08,293 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 360052988
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:08,396 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 370802571
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:08,499 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 383025035
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:08,601 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 395239307
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:08,704 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 407461771
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:08,807 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 418471819
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:08,910 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 430620555
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:09,014 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 442965899
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:09,117 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 455376779
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:09,219 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 466067339
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:09,322 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 478412683
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:09,425 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 490889099
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:09,530 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 503365515
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:09,634 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 514244491
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:09,737 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 526589835
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:09,840 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 539189131
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:09,943 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 550010763
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:10,046 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 562421643
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:10,149 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 574701451
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:10,255 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 587243403
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:10,358 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 597991307
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:10,461 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 610467723
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:10,564 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 622690187
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:10,668 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 635035531
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:10,771 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 645783435
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:10,873 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 658005899
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:10,976 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 670228363
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:11,079 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 682631051
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:11,183 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 693518219
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:11,288 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 706117515
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:11,391 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 718339979
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:11,495 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 729538443
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:11,598 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 742326155
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:11,701 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 754548619
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:11,804 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 765304715
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:11,907 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 777904011
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:12,010 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 790118283
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:12,114 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 802340747
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:12,218 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 814555019
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:12,323 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 825253771
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:12,426 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 837721995
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:12,529 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 849944459
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:12,633 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 862289803
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:12,737 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 874569611
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:12,842 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 886792075
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:12,947 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 897482635
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:13,050 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 910016395
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:13,154 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 922550155
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:13,257 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 934903691
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:13,360 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 945651595
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:13,463 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 958193547
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:13,566 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 970284939
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:13,670 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 981868427
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:13,773 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 994148235
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:13,878 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 1006624651
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:13,982 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 1018838923
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:14,087 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 1029529483
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:14,191 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 1042005899
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:14,296 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 1054351243
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:14,399 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 1066565515
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:14,503 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 1079230347
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:14,606 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 1089986443
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:14,710 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 1102585739
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:14,814 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 1114808203
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:14,918 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 1126277003
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:15,021 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 1138352011
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:15,124 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 1138994282
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:15,226 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 1138994282
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:15,329 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 1138994282
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:15,432 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 1138994282
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:15,535 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 1138994282
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:15,638 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 1138994282
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:15,740 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 1138994282
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:15,843 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 1138994282
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:15,946 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 1138994282
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:20,751 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 1138994282
+  total_bytes: 1138994282
+}
+
+2022-07-14 02:04:21,119 INFO    MainThread:2526035 [wandb_run.py:_on_finish():1996] got exit ret: done: true
+exit_result {
+}
+file_counts {
+  wandb_count: 5
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 1138994282
+  total_bytes: 1138994282
+}
+local_info {
+}
+
+2022-07-14 02:04:22,493 INFO    MainThread:2526035 [wandb_run.py:_footer_history_summary_info():3104] rendering history
+2022-07-14 02:04:22,515 INFO    MainThread:2526035 [wandb_run.py:_footer_history_summary_info():3136] rendering summary
+2022-07-14 02:04:22,533 INFO    MainThread:2526035 [wandb_run.py:_footer_sync_info():3060] logging synced files
